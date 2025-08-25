@@ -38,8 +38,6 @@ pip install requests beautifulsoup4 termcolor pyfiglet
 
 ## Example Screenshot
 
-_Add your screenshot here. Example:_
-
 ![Job Scraper Screenshot](screenshot.png)
 
 ## File Structure
